@@ -46,17 +46,9 @@ El repositorio está organizado en las siguientes secciones:
    - CloudTrail
    - AWS Config
 
-## ¿Cómo usar este repositorio?
-
-- **Estudia por categorías**: Utiliza la estructura de JAWS para estudiar los servicios por grupos relacionados.
-- **Revisa los ejemplos**: En cada sección encontrarás ejemplos prácticos y diagramas que te ayudarán a entender cómo funcionan los servicios.
-- **Contribuye**: Si tienes notas adicionales, correcciones o quieres compartir tus propios resúmenes, ¡no dudes en hacer un pull request!
-
 ## Recursos Adicionales
 
 - [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/learn-about-cloud-practitioner/)
-- [AWS Whitepapers](https://aws.amazon.com/whitepapers/)
-- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 
 ## Contribuciones
 
