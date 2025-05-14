@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "85a55aafce6eb140",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4417110fcacc215",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a210adbdcc339fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaaS PaaS y SaaS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LaaS PaaS y SaaS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c87ba79de54449b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "581ae3ae77b8a858",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e78f9b1bc266206",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "fa5f6d17749b5db6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "redes",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "92392ff3a17737cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de815cc16831f456",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0c3e19a8cef6077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8c342ebf8a1cc02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LaaS PaaS y SaaS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de LaaS PaaS y SaaS"
+            }
+          },
+          {
+            "id": "6995daad4e29fce5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LaaS PaaS y SaaS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de LaaS PaaS y SaaS"
+            }
+          },
+          {
+            "id": "6fe83dc111b0a5d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "6fff22cc1e6fc974",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LaaS PaaS y SaaS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de LaaS PaaS y SaaS"
+            }
+          },
+          {
+            "id": "65b3a68a14bd4fba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1e78f9b1bc266206",
+  "lastOpenFiles": [
+    "Imagenes/Shared_Responsibility_Model_V2.5.jpg",
+    "Imagenes/image.png",
+    "Diagramas/ELB - Elastic Load Balancer.png",
+    "Diagramas/baja latencia Cloudfront.png",
+    "Diagramas/Autoescalado (AE).png",
+    "Contenedores en AWS/Contenedores en AWS.md",
+    "Servicios Obsoletos explicados.md"
+  ]
+}
