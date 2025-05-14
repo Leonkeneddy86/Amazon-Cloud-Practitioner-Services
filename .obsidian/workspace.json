@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaaS PaaS y SaaS.md",
+                "file": "Amazon CloudTrail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LaaS PaaS y SaaS"
+              "title": "Amazon CloudTrail"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaaS PaaS y SaaS.md",
+                "file": "Amazon CloudTrail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de LaaS PaaS y SaaS"
+              "title": "Enlaces entrantes de Amazon CloudTrail"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaaS PaaS y SaaS.md",
+                "file": "Amazon CloudTrail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de LaaS PaaS y SaaS"
+              "title": "Enlaces salientes de Amazon CloudTrail"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaaS PaaS y SaaS.md",
+                "file": "Amazon CloudTrail.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de LaaS PaaS y SaaS"
+              "title": "Esquema de Amazon CloudTrail"
             }
           },
           {
@@ -179,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e78f9b1bc266206",
+  "active": "8a210adbdcc339fe",
   "lastOpenFiles": [
+    "LaaS PaaS y SaaS.md",
     "Imagenes/Shared_Responsibility_Model_V2.5.jpg",
     "Imagenes/image.png",
     "Diagramas/ELB - Elastic Load Balancer.png",
